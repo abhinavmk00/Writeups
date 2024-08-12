@@ -1,5 +1,5 @@
 # HTTP in Detail (Tryhackme)
-## Assignment 7
+## Assignment 8
 
 link : https://tryhackme.com/r/room/httpindetail
 
