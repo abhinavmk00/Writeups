@@ -1,4 +1,4 @@
-# SQLi
+# SQLi (low)
 ## Assigment 11
 
 ### There is a user input to find the username and password of the id
