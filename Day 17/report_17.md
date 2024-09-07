@@ -20,6 +20,8 @@ shift cipher brute forced to
 # endianness (pico ctf)
 ## Know of little and big endian?
 
+link : https://play.picoctf.org/practice/challenge/414
+
 ```bash
 abhi@abhi-Lenovo-IdeaPad-S145-15IKB:~$ nc titan.picoctf.net 57166
 Welcome to the Endian CTF!
@@ -45,6 +47,8 @@ Your Flag is: picoCTF{3ndi4n_sw4p_su33ess_d58517b6}
 
 # Commitment Issues (pico ctf)
 ## I accidentally wrote the flag down. Good thing I deleted it!
+
+link : https://play.picoctf.org/practice/challenge/411
 
 ```bash
 abhi@abhi-Lenovo-IdeaPad-S145-15IKB:~/Downloads/drop-in$ ls -la
